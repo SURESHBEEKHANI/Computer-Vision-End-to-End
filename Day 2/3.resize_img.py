@@ -20,4 +20,3 @@ cv2.imshow('Crop_Output', crop_img)
 cv2.waitKey(0)
 
 
-Computer-Vision-End-to-End

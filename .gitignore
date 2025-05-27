@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+model_vgg16.h5
+
